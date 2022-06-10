@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CarDeku
 - 👀 I’m interested in web development full stack and programming
--  
 - 🌱 I’m currently learning Javascript and PHP
-- 
 - 💞️ I’m looking to collaborate on any project that generates experience
 - 📫 How to reach me: irourtubia@gmail.com wsp +56950986495
 
